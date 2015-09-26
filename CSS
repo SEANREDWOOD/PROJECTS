@@ -1,0 +1,39 @@
+table{ 
+ 	padding-left:100px; 
+ } 
+
+ 
+h1{ 
+	font-family:Arial; 
+} 
+
+#firstn{
+    font-family:cursive;
+}
+html{
+    background-color:#CCFFFF;
+}  
+#summary{
+    clear:LEFT;
+    float:left;
+    margin-right:250px;
+    
+}
+
+img{
+      
+    height:200px;
+    width:130px;
+    float:right;
+    clear:left;
+    margin-top:-190px;
+}
+#email:link{
+    text-decoration:none;
+    color:#008B45
+    }
+#email:hover{
+    color:#00FF00}
+#email:visited{
+    color:#EE9A00
+}
